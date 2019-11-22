@@ -1,2 +1,1 @@
-# watchdog-rtos
-Simple external watchdog demo on system running FreeRTOS
+Demonstrating implementation of self diagnosis on a real time system
